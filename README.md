@@ -7,7 +7,7 @@ Found [here](https://dribbble.com/shots/14628251-Broperti-Header-Real-Estate).
 
 ## Access
 
-Use this [link](https://mingos1.github.io/Personal-website/) to access the live website.
+Use this [link](https://mingos1.github.io/Website-design-recreation-1/) to access the live website.
 
 ## License
 
